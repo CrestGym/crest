@@ -1,0 +1,202 @@
+@charset "utf-8";
+.navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #000000;
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0.00%,rgba(0,0,0,1.00) 100%);
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    color: #FF511E;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-size: large;
+    text-decoration: none;
+    font-weight: 700;
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    color: #FFFFFF;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #FF511E;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: large;
+    font-weight: 700;
+}
+.classes.section.pad .container .card-group {
+    float: right;
+    margin-right: 117px;
+    display: table-row;
+    right: 79px;
+}
+.card.mb-4 .card-body .btn.btn-primary.btn-md {
+    background-color: #000000;
+}
+.card .card-body .btn.btn-light-blue.btn-md {
+    background-color: #000000;
+    color: #FFFFFF;
+    background-image: url(service.html);
+}
+
+.card.mb-4 .card-body .btn.btn-light-blue.btn-md {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+.card .card-body .btn.btn-light-blue.btn-md {
+}
+.classes.section.pad p {
+    font-family: dancing-script;
+    font-style: normal;
+    font-weight: 400;
+    color: #E3060A;
+}
+.classes.section.pad p {
+    color: #FFFFFF;
+    font-family: dancing-script;
+    font-style: normal;
+    font-weight: 400;
+}
+.text-center {
+    font-family: dynalight;
+    font-style: normal;
+    font-weight: 400;
+}
+.card.mb-4 .card-body .card-text {
+    color: #000000;
+}
+.card.mb-4 .card-body .btn.btn-light-blue.btn-md {
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand img {
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand img {
+    top: 38px;
+    margin-top: 15px;
+}
+.container-fluid .grid .grid-item {
+}
+.card .view.overlay .card-img-top {
+}
+.row .col-xl-6 img {
+    margin-right: -37px;
+    margin-bottom: -22px;
+}
+.row .col-xl-6 img {
+    padding-left: 5px;
+}
+footer .row .fa.fa-facebook {
+    width: 16px;
+    min-height: 56px;
+    padding-top: 3px;
+    min-width: 20px;
+    border-top-width: 169px;
+	color: white;
+	font-size: 25px
+	
+}
+footer .row .fa.fa-instagram {
+    padding-left: 10px;
+	width: 25px;
+	color: white;
+	font-size: 25px
+	
+}
+.container footer .row {
+}
+footer .row .fa.fa-youtube {
+    margin-left: 9px;
+	width: 25px;
+	color: white;
+	font-size: 25px;
+}
+footer .row .fa.fa-twitter{
+	color:white;
+	font-size: 25px;
+	
+}
+.row .col-xl-6 img {
+}
+.row .col-xl-6 img {
+}
+footer .row .fa.fa-twitter {
+    margin-left: 4px;
+}
+footer .row .fa.fa-instagram {
+    margin-left: 1px;
+}
+footer .row .fa.fa-youtube {
+    margin-left: 17px;
+}
+
+
+
+.row .col-xl-6 img {
+    margin-left: -4px;
+}
+.row .col-xl-6 .fa.fa-envelope {
+    color: #FFFFFF;
+    font-size: 18px;
+    margin-bottom: -1px;
+    padding-top: 11px;
+    padding-bottom: 9px;
+}
+footer .row .col-xl-6 {
+}
+
+footer .row .col-xl-6 {
+}
+.container footer .row {
+    color: #FFFFFF;
+    font-size: 17px;
+}
+footer .row .fa.fa-phone {
+    color: #FFFFFF;
+}
+.row div .fa.fa-twitter {
+    padding-right: 3px;
+    padding-left: 7px;
+}
+.row .col-xl-6 .fa.fa-map-marker {
+    color: #FFFFFF;
+    font-size: 27px;
+}
+.container footer p {
+    padding-left: 555px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: -20px;
+    font-size: 18px;
+    margin-left: -6px;
+}
+.container footer p {
+    margin-top: -21px;
+    margin-bottom: 17px;
+}
+footer .row .fa.fa-phone {
+    margin-top: 12px;
+}
+footer p .fa.fa-map-marker {
+    color: #FFFFFF;
+    font-size: 25px;
+}
+.grid .grid-item img {
+    margin-top: -446px;
+    margin-left: 471px;
+    max-width: 1000px;
+    max-height: 319px;
+}
+.grid .grid-item img {
+}
+.classes.section.pad .container-fluid .grid {
+}
+.classes.section.pad .container-fluid .grid {
+    max-width: 249px;
+    min-height: 625px;
+}
+.container-fluid .grid .grid-item {
+    margin-top: 0px;
+    margin-right: 98px;
+}
